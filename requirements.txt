@@ -1,0 +1,3 @@
+findmy==0.10.2
+anisette==1.2.4
+cryptography==50.0.2

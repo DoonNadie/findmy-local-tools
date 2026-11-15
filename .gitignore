@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.local/
+state/
+*.aesgcm
+*.plist
+*.apk
+*.so
+*.dylib
+tools/keychain-key
+tools/keychain-key.*
+!tools/keychain_key.swift
+*.log
+.DS_Store

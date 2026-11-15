@@ -1,0 +1,34 @@
+# Snapshot of the isolated macOS/Python3.14 environment used during development.
+# Version pins are not hashes, an audit, or a future security guarantee.
+aiohappyeyeballs==2.7.1
+aiohttp==3.14.5
+aiosignal==1.4.0
+Anisette==1.2.4
+appdirs==1.4.4
+attrs==26.1.0
+beautifulsoup4==4.15.0
+bleak==3.0.2
+certifi==2026.10.23
+cffi==2.1.1
+cryptography==50.0.2
+FindMy==0.10.2
+frozenlist==1.8.0
+fs==2.4.16
+idna==3.20
+multidict==7.2.1
+pip==26.2.1
+propcache==0.5.4
+pycparser==3.12
+pyelftools==0.33
+pyobjc-core==13.0
+pyobjc-framework-Cocoa==13.0
+pyobjc-framework-CoreBluetooth==13.0
+pyobjc-framework-libdispatch==13.0
+setuptools==84.2.1
+six==1.17.0
+soupsieve==4.1.1
+srp==1.0.22
+typing_extensions==4.16.0
+unicorn==2.1.4
+urllib3==2.8.0
+yarl==1.25.1
