@@ -73,6 +73,10 @@ After installing the reviewed dependencies:
 
 Tests use a random in-memory storage key and temporary directories. They do not access your Keychain, Apple account, real accessories or network.
 
+## People behind the project
+
+Created by [DoonNadie](https://github.com/DoonNadie) with [BobNadie](https://github.com/BobNadie), his supervised AI agent. DoonNadie directs the project; Bob assists with implementation, testing, documentation and maintenance. BobNadie is an AI service account, not a separate human contributor.
+
 ## License and attribution
 
 New tools: MIT, copyright DoonNadie. Query code incorporates MIT-licensed FindMy.py adaptations; see [NOTICE.md](NOTICE.md), [LICENSE](LICENSE) and [FINDMY-LICENSE.md](FINDMY-LICENSE.md). Dependencies and separately obtained prerequisites retain their own licenses. No Apple endorsement is implied.
